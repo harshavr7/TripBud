@@ -1,0 +1,5 @@
+{
+  "name": "Trip Expense Monitor",
+  "description": "A smart trip planner and expense tracker to manage group travel budgets. It helps you monitor spending, split costs, and generates AI-powered travel itineraries to avoid overspending and simplify your trips.",
+  "requestFramePermissions": []
+}
